@@ -1,3 +1,5 @@
+WIP: a fork of drone runner docker for podman
+
 # drone-runner-docker
 
 The `docker` runner executes pipelines inside Docker containers. This runner is intended for linux workloads that are suitable for execution inside containers. This requires Drone server `1.6.0` or higher.
